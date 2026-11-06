@@ -1,3 +1,5 @@
 "company","ticker","pub_date","entry_date","exit_date","pillar","severity","entry_price","exit_price","stock_return","short_return","status","title"
+"Meta Platforms, Inc.","META",2026-11-04,2026-11-05,2026-11-10,"S",3,605.08,605.08,0,-0.1,"Open","States agreed to ‘fully, finally, and forever’ release Meta from claims they didn’t know existed — with $459 million for Cambridge Analytica claims"
+"Alphabet Inc","GOOGL",2026-11-04,2026-11-05,2026-11-10,"G",2,282.57,282.57,0,-0.1,"Open","Google responds to political backlash over removing search from schools that ban AI"
 "Meta Platforms Inc","META",2026-10-25,2026-10-26,2026-10-31,"S",3,630.56,614.99,-2.4692,2.3692,"Open","U.S. Judge Orders Meta to Pay $25 Billion Following Cambridge Analytica Privacy Violations"
 "Meta Platforms Inc","META",2026-10-25,2026-10-26,2026-10-31,"S",3,630.56,614.99,-2.4692,2.3692,"Open","Attorney General Behind Historic Meta Fine Picks Next Target"
